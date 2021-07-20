@@ -21,7 +21,7 @@ Calibration your parameter.
   * power        => power
   * coefficient  => coefficient
   * constant     => constant
-  * return uint8_t */
+  * return uint8_t
 
 ```cpp
 begin (float power = -0.952, float coefficient = 10782.0f, float constant = -1.9f);
